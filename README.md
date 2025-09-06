@@ -1,7 +1,7 @@
 # Real-Time Chess Game
-
-[Screenshot 2025-09-06 195227.png](https://github.com/LUCKYALI1/chess/blob/main/Screenshot%202025-09-06%20195227.png)
-*<p align="center">Please replace `Screenshot 2025-09-06 195227.png` with a screenshot of your application.</p>*
+<p align="center">
+  <img src="https://github.com/LUCKYALI1/chess/blob/main/Screenshot%202025-09-06%20195227.png" alt="App Screenshot" width="600">
+</p>
 
 ## About The Project
 

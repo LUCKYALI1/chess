@@ -1,12 +1,12 @@
 # Real-Time Chess Game
 
-![Chess Game Screenshot](placeholder.png)
-*<p align="center">Please replace `placeholder.png` with a screenshot of your application.</p>*
+![Chess Game Screenshot](Screenshot 2025-09-06 195227.png)
+*<p align="center">Please replace `Screenshot 2025-09-06 195227.png` with a screenshot of your application.</p>*
 
 ## About The Project
 
 This is a real-time, two-player chess game built with Node.js and Socket.IO. It allows two players to connect and play a game of chess in their web browsers. The application features a clean and modern user interface with drag-and-drop functionality for moving pieces.
-
+git 
 The game state is managed on the server, ensuring that both players have a synchronized experience. The backend handles player connections, role assignments (White and Black), move validation, and turn management. The frontend dynamically updates to reflect the current state of the game, including piece positions, captured pieces, and player scores.
 
 ### Key Features
